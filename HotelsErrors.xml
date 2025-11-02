@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  
+  <!--Hotel 0-->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 1-->
+  <Hotel Rating="3.4">
+    <Name>Quality Inn</Name>
+    <Phone>480-535-4461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>255</Number>
+      <Street>N. Kyrene Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 2-->
+  <Hotel>
+    <Name>Hyatt Place</Name>
+    <Phone>480-207-1578</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>601</Number>
+      <Street>E. 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 3-->
+  <Hotel Rating="3.9">
+    <Name>Wyndham</Name>
+    <Phone>480-967-6600</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1600</Number>
+      <Street>S. 52nd St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 4-->
+  <Hotel>
+    <Name>Ramada</Name>
+    <Name>Ramada by Wyndham</Name>
+    <Phone>480-400-9038</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1701</Number>
+      <Street>W. Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 5-->
+  <Hotel Rating="4.1">
+    <Name>Sonesta Select</Name>
+    <Phone>480-966-2800</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>601</Number>
+      <Street>S. Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+  </Hotel>
+  
+  <!--Hotel 6-->
+  <Hotel>
+    <Name>Studio 6</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4909</Number>
+      <Street>S. Wendler Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 7-->
+  <Hotel Rating="4.6">
+    <Name>Tempe Oasis</Name>
+    <Phone>480-219-9837</Phone>
+    <Address>
+      <Number>1635</Number>
+      <Street>N. Scottsale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 8-->
+  <Hotel>
+    <Name>SureStay Plus</Name>
+    <Phone>480-675-9799</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1429</Number>
+      <Street>N. Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 9-->
+  <Hotel Rating="4.0">
+    <Name>Sonesta Simply Suites</Name>
+    <Phone>480-777-0440</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1355</Number>
+      <Street>W. Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+  
+  <!--Hotel 10-->
+  <Hotel>
+    <Name>Drury Plaza Hotel</Name>
+    <Phone>480-940-3700</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1780</Number>
+      <Street>W. Ranch Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85284</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotel>
